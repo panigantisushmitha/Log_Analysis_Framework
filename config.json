@@ -1,0 +1,12 @@
+{
+    "log_files": [
+        "logs/sample.log",
+        "logs/app.log"
+    ],
+    "report_file": "reports/report.txt",
+    "levels": [
+        "INFO",
+        "WARNING",
+        "ERROR"
+    ]
+}
