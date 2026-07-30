@@ -1,0 +1,31 @@
+==================================================
+LOG ANALYSIS REPORT
+==================================================
+
+Log Level Summary
+------------------------------
+INFO: 10
+ERROR: 6
+WARNING: 4
+
+Most Frequent Messages
+------------------------------
+User Login Successful -> 2
+Database Connection Failed -> 1
+Memory Usage High -> 1
+Payment Completed -> 1
+File Not Found -> 1
+User Logout -> 1
+CPU Usage High -> 1
+API Timeout -> 1
+Order Placed -> 1
+Application Started -> 1
+User Logged In -> 1
+Disk Space Low -> 1
+Database Timeout -> 1
+Report Generated -> 1
+Invalid API Key -> 1
+Backup Completed -> 1
+High CPU Usage -> 1
+User Logged Out -> 1
+Connection Lost -> 1
